@@ -1,6 +1,6 @@
 # COMP10001-Phazed
 ## The Rules of Phazed
-Phazed is a card game modified for play. The rules can be found here:
+Phazed is a card game modified for play for the purposes of this assignment. The rules can be found in the source files.
 ## The Input
 The program is able to play phazed by passing it the boardstate. The function will return a single action based on the information provided.
 
